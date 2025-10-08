@@ -1,4 +1,4 @@
 # firstGitHub
 First Git Repo
 <br>
-Author-Arjun
+Author-Arjun Gupta
